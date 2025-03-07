@@ -143,10 +143,11 @@ body {
 .box-header {
     background-color: #202134;
     color: white;
+    width: 100%;
     margin-top: 5px;
     margin-bottom: 5px;
     box-sizing: border-box;
-    padding: 20px 0 20px 0;
+    padding: 5px 0 5px 0;
     font-size: 30px;
 }
 
