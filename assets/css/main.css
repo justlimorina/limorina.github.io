@@ -985,11 +985,12 @@ body.dark-theme .md-logo--dark {
 }
 .md-rail-item__label {
     font-size: 11px;
-    line-height: 16px;
+    line-height: 14px;
     font-weight: 500;
     letter-spacing: 0.5px;
     text-align: center;
     color: inherit;
+    max-width: 60px;
 }
 .md-nav-rail__bottom {
     display: flex;
